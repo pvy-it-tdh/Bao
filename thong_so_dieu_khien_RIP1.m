@@ -3,6 +3,7 @@ clear all;
 close all;
 % Vy
 %Bao
+% Nhung
 
 % Thông số của hệ thống 
 Kt = 0.07;  % Hằng số momen-xoắn của động cơ 
